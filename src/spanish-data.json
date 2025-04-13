@@ -1,0 +1,127 @@
+{
+  "infinitives": [
+    ["comer", "to eat", "-er verb", false, false, false, [
+      ["como", "I eat"],
+      ["comes", "you eat"],
+      ["come", "he/she eats"],
+      ["comemos", "we eat"],
+      ["coméis", "you all eat"],
+      ["comen", "they eat"]
+    ], true],
+    ["beber", "to drink", "-er verb", false, false, false, [
+      ["bebo", "I drink"],
+      ["bebes", "you drink"],
+      ["bebe", "he/she drinks"],
+      ["bebemos", "we drink"],
+      ["bebéis", "you all drink"],
+      ["beben", "they drink"]
+    ], true],
+    ["hablar", "to speak", "-ar verb", false, false, false, [
+      ["hablo", "I speak"],
+      ["hablas", "you speak"],
+      ["habla", "he/she speaks"],
+      ["hablamos", "we speak"],
+      ["habláis", "you all speak"],
+      ["hablan", "they speak"]
+    ], true],
+    ["necesitar", "to need", "-ar verb", false, false, false, [
+      ["necesito", "I need"],
+      ["necesitas", "you need"],
+      ["necesita", "he/she needs"],
+      ["necesitamos", "we need"],
+      ["necesitáis", "you all need"],
+      ["necesitan", "they need"]
+    ], true],
+    ["ayudar", "to help", "-ar verb", false, false, false, [
+      ["ayudo", "I help"],
+      ["ayudas", "you help"],
+      ["ayuda", "he/she helps"],
+      ["ayudamos", "we help"],
+      ["ayudáis", "you all help"],
+      ["ayudan", "they help"]
+    ], true],
+    ["gritar", "to shout", "-ar verb", false, false, false, [
+      ["grito", "I shout"],
+      ["gritas", "you shout"],
+      ["grita", "he/she shouts"],
+      ["gritamos", "we shout"],
+      ["gritáis", "you all shout"],
+      ["gritan", "they shout"]
+    ], true],
+    ["abrir", "to open", "-ir verb", false, false, false, [
+      ["abro", "I open"],
+      ["abres", "you open"],
+      ["abre", "he/she opens"],
+      ["abrimos", "we open"],
+      ["abrís", "you all open"],
+      ["abren", "they open"]
+    ], true],
+    ["trabajar", "to work", "-ar verb", false, false, false, [
+      ["trabajo", "I work"],
+      ["trabajas", "you work"],
+      ["trabaja", "he/she works"],
+      ["trabajamos", "we work"],
+      ["trabajáis", "you all work"],
+      ["trabajan", "they work"]
+    ], true],
+    ["abandonar", "to abandon", "-ar verb", false, false, false, [
+      ["abandono", "I abandon"],
+      ["abandonas", "you abandon"],
+      ["abandona", "he/she abandons"],
+      ["abandonamos", "we abandon"],
+      ["abandonáis", "you all abandon"],
+      ["abandonan", "they abandon"]
+    ], true],
+    ["cantar", "to sing", "-ar verb", false, false, false, [
+      ["canto", "I sing"],
+      ["cantas", "you sing"],
+      ["canta", "he/she sings"],
+      ["cantamos", "we sing"],
+      ["cantáis", "you all sing"],
+      ["cantan", "they sing"]
+    ], true],
+    ["cenar", "to have dinner", "-ar verb", false, false, false, [
+      ["ceno", "I have dinner"],
+      ["cenas", "you have dinner"],
+      ["cena", "he/she has dinner"],
+      ["cenamos", "we have dinner"],
+      ["cenáis", "you all have dinner"],
+      ["cenan", "they have dinner"]
+    ], true],
+    ["viver", "to live", "-ir verb", false, false, false, [
+      ["vivo", "I live"],
+      ["vives", "you live"],
+      ["vive", "he/she lives"],
+      ["vivimos", "we live"],
+      ["vivís", "you all live"],
+      ["viven", "they live"]
+    ], true],
+    ["comprar", "to buy", "-ar verb", false, false, false, [
+      ["compro", "I buy"],
+      ["compras", "you buy"],
+      ["compra", "he/she buys"],
+      ["compramos", "we buy"],
+      ["compráis", "you all buy"],
+      ["compran", "they buy"]
+    ], true],
+    ["escribir", "to write", "-ir verb", false, false, false, [
+      ["escribo", "I write"],
+      ["escribes", "you write"],
+      ["escribe", "he/she writes"],
+      ["escribimos", "we write"],
+      ["escribís", "you all write"],
+      ["escriben", "they write"]
+    ], true]
+  ],
+  "tenses": [
+    ["present tense", "Present", false, false, false, false, true]
+  ],
+  "persons": [
+    ["yo → I", true],
+    ["tú → you", true],
+    ["él/ella → he/she", true],
+    ["nosotros → we", true],
+    ["vosotros → you all", true],
+    ["ellos → they", true]
+  ]
+}
