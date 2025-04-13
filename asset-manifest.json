@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpanishThrones/static/css/main.59f8b7f5.css",
+    "main.js": "/SpanishThrones/static/js/main.64d1a5a2.js",
+    "static/js/453.29368d1a.chunk.js": "/SpanishThrones/static/js/453.29368d1a.chunk.js",
+    "index.html": "/SpanishThrones/index.html",
+    "main.59f8b7f5.css.map": "/SpanishThrones/static/css/main.59f8b7f5.css.map",
+    "main.64d1a5a2.js.map": "/SpanishThrones/static/js/main.64d1a5a2.js.map",
+    "453.29368d1a.chunk.js.map": "/SpanishThrones/static/js/453.29368d1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f8b7f5.css",
+    "static/js/main.64d1a5a2.js"
+  ]
+}
